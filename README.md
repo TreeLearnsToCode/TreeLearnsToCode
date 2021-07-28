@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TreeLearnsToCode
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in JS, Python, HTML, CSS
+- 🌱 I’m currently learning the above
+- 💞️ I’m looking to collaborate on making webapps
 - 📫 How to reach me ... mrtreeoffice@gmail.com
 
 <!---
